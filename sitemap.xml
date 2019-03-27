@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://californiatech.github.io/index.html</loc>
+    <lastmod>2019-03-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://californiatech.github.io/images/seatse-crop-u382.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://californiatech.github.io/images/salad.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://californiatech.github.io/images/menu%20(4).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://californiatech.github.io/images/job.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://californiatech.github.io/images/chef.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://californiatech.github.io/images/feedback%20(2).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://californiatech.github.io/images/web.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
